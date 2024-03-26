@@ -1,4 +1,4 @@
-# ArchISO OBL (Obviously Basic Linux)
+# ArchISO Builder
 
 A custom Arch Linux ISO Maker based off archiso's releng profile with personal addition.
 
